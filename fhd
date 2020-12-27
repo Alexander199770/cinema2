@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A&E *FHD" tvg-name="A&E *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="CINEMA | FHD",A&E *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/807.m3u8
+#EXTINF:-1 tvg-id="A3 SERIES *FHD" tvg-name="A3 SERIES *FHD" tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" group-title="CINEMA | FHD",A3 SERIES *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/808.m3u8
+#EXTINF:-1 tvg-id="AMC *FHD" tvg-name="AMC *FHD" tvg-logo="https://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-325.jpg" group-title="CINEMA | FHD",AMC *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/806.m3u8
+#EXTINF:-1 tvg-id="MX | ANTENA 3" tvg-name="ANTENA 3 *FHD" tvg-logo="http://www.xarxacreativa.com/wp-content/uploads/2017/05/antena3_logo_nuevo.jpg" group-title="CINEMA | FHD",ANTENA 3 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/805.m3u8
+#EXTINF:-1 tvg-id="AXN *FHD" tvg-name="AXN *FHD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="CINEMA | FHD",AXN *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/804.m3u8
+#EXTINF:-1 tvg-id="CINECANAL *FHD" tvg-name="CINECANAL *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cinecanal_m.png" group-title="CINEMA | FHD",CINECANAL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/802.m3u8
+#EXTINF:-1 tvg-id="CINEMAX *FHD" tvg-name="CINEMAX *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png?itok=B68WqGTJ" group-title="CINEMA | FHD",CINEMAX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/803.m3u8
+#EXTINF:-1 tvg-id="USA | Cinemax Actionmax" tvg-name="CINEMAX ACTION *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png?itok=B68WqGTJ" group-title="CINEMA | FHD",CINEMAX ACTION *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/851.m3u8
+#EXTINF:-1 tvg-id="USA | Cinemax West" tvg-name="CINEMAX WEST *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/untitled-1_147.png?itok=B68WqGTJ" group-title="CINEMA | FHD",CINEMAX WEST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/849.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL *FHD" tvg-name="COMEDY CENTRAL *FHD" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="CINEMA | FHD",COMEDY CENTRAL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/799.m3u8
+#EXTINF:-1 tvg-id="DEPELICULA *FHD" tvg-name="DEPELICULA *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINEMA | FHD",DEPELICULA *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/800.m3u8
+#EXTINF:-1 tvg-id="DEPELICULA *FHD" tvg-name="DEPELICULA PLUS *FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="CINEMA | FHD",DEPELICULA PLUS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/801.m3u8
+#EXTINF:-1 tvg-id="MX | DISTRITO COMEDIA *FHD" tvg-name="DISTRITO COMEDIA *FHD" tvg-logo="https://pbs.twimg.com/profile_images/664989427794489344/TfLfHCj__400x400.jpg" group-title="CINEMA | FHD",DISTRITO COMEDIA *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/797.m3u8
+#EXTINF:-1 tvg-id="DW *FHD" tvg-name="DW *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NBNhn9wavYNpIf4uXGvD4XPztzuyLRCJDwhPiiYm_sZ6hAYb&s" group-title="CINEMA | FHD",DW *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/798.m3u8
+#EXTINF:-1 tvg-id="FILM & ART *HQ" tvg-name="FILM ARTS *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDPrdTYm61rgOsAJlv0uUnVWxf23p7gLqBfQJEsarP3fY3CRs&s" group-title="CINEMA | FHD",FILM ARTS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/795.m3u8
+#EXTINF:-1 tvg-id="FOX *FHD" tvg-name="FOX *FHD" tvg-logo="https://hypeauditor.com/uploads/h/4/e/5/5755a06c721f16d05d672876c34d08b3.jpg?p=qMr4CAJJ9ehzOc19teDKllI1Qnn6HTdnUH77H8kIggVt5HfmNEjCkMBvBBSvmBpb0K9toF7Cmf8PlWJ%2FvOvyU3DtVlXE32je20r6sLg1L1V%2F3x9W2qHp0XdO3oIClXmPCW0KKxc8No4jG2AWnq1kjQ%3D%3D" group-title="CINEMA | FHD",FOX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/792.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE *FHD" tvg-name="FOX LIFE *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CINEMA | FHD",FOX LIFE *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/793.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION *FHD" tvg-name="FOX PREMIUM ACTION *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="CINEMA | FHD",FOX PREMIUM ACTION *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/784.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA *FHD" tvg-name="FOX PREMIUM CINEMA *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcinema.png" group-title="CINEMA | FHD",FOX PREMIUM CINEMA *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/785.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS *FHD" tvg-name="FOX PREMIUM CLASSIC *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxclassics.png" group-title="CINEMA | FHD",FOX PREMIUM CLASSIC *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/790.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY *FHD" tvg-name="FOX PREMIUM COMEDY *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxcomedy.png" group-title="CINEMA | FHD",FOX PREMIUM COMEDY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/791.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY *FHD" tvg-name="FOX PREMIUM FAMILY *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxfamily.png" group-title="CINEMA | FHD",FOX PREMIUM FAMILY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/789.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES *FHD" tvg-name="FOX PREMIUM MOVIES *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxmovies.png" group-title="CINEMA | FHD",FOX PREMIUM MOVIES *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/794.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES *FHD" tvg-name="FOX PREMIUM SERIES *FHD" tvg-logo="https://foxmas.foxplay.com/img/logo_foxseries.png" group-title="CINEMA | FHD",FOX PREMIUM SERIES *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/788.m3u8
+#EXTINF:-1 tvg-id="FX *FHD" tvg-name="FX *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlmmXnsW5hqqhPFniYa3xcR8HeQtNjjkSjL5ji_TG5i8jSrXq&s" group-title="CINEMA | FHD",FX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/781.m3u8
+#EXTINF:-1 tvg-id="FXM *FHD" tvg-name="FXM *FHD" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="CINEMA | FHD",FXM *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/782.m3u8
+#EXTINF:-1 tvg-id="GOLDEN *FHD" tvg-name="GOLDEN *FHD" tvg-logo="https://pbs.twimg.com/profile_images/979953513512882176/CYhRbo-9_400x400.jpg" group-title="CINEMA | FHD",GOLDEN *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/778.m3u8
+#EXTINF:-1 tvg-id="GOLDEN EDGE *HD" tvg-name="GOLDEN EDGE *FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Logo-goldedge.jpg/revision/latest?cb=20190322171006" group-title="CINEMA | FHD",GOLDEN EDGE *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/779.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PLUS *FHD" tvg-name="GOLDEN PLUS *FHD" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="CINEMA | FHD",GOLDEN PLUS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/780.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PREMIER *FHD" tvg-name="GOLDEN PREMIER *FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-senales-golden-premier.jpg" group-title="CINEMA | FHD",GOLDEN PREMIER *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/787.m3u8
+#EXTINF:-1 tvg-id="GOLDEN EDGE *HD" tvg-name="GOLDEN PREMIER 2 *FHD" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/238-Golden-Premier-2-01.jpg" group-title="CINEMA | FHD",GOLDEN PREMIER 2 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/40088.m3u8
+#EXTINF:-1 tvg-id="HBO *FHD" tvg-name="HBO *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINEMA | FHD",HBO *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/814.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS *FHD" tvg-name="HBO + *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-plus.png" group-title="CINEMA | FHD",HBO + *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/812.m3u8
+#EXTINF:-1 tvg-id="HBO 2 *FHD" tvg-name="HBO 2 *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo2.png" group-title="CINEMA | FHD",HBO 2 *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/810.m3u8
+#EXTINF:-1 tvg-id="HBO EAST *FHD" tvg-name="HBO EAST *FHD" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_east_small.gif" group-title="CINEMA | FHD",HBO EAST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/848.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY *FHD" tvg-name="HBO FAMILY *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbofamily.png" group-title="CINEMA | FHD",HBO FAMILY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/811.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="HBO FAMILY WEST *FHD" tvg-logo="http://i.imgur.com/RQa2ipx.png" group-title="CINEMA | FHD",HBO FAMILY WEST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/847.m3u8
+#EXTINF:-1 tvg-id="MAX PRIME *FHD" tvg-name="HBO MUNDI *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="CINEMA | FHD",HBO MUNDI *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27529.m3u8
+#EXTINF:-1 tvg-id="MAX UP *FHD" tvg-name="HBO POP *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png" group-title="CINEMA | FHD",HBO POP *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/815.m3u8
+#EXTINF:-1 tvg-id="MAX PRIME *FHD" tvg-name="HBO XTREME *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png" group-title="CINEMA | FHD",HBO XTREME *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/809.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE *FHD" tvg-name="HBO SIGNATURE *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpyNFd7cW1oieFX7ORDpf5c5uIUGFAjxxWx8wxvjb_mgMHb6j&s" group-title="CINEMA | FHD",HBO SIGNATURE *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/813.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS West" tvg-name="HBO WEST *FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg" group-title="CINEMA | FHD",HBO WEST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/844.m3u8
+#EXTINF:-1 tvg-id="HBO *FHD" tvg-name="HBO | SUBTITULADO *FHD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo.png" group-title="CINEMA | FHD",HBO | SUBTITULADO *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/817.m3u8
+#EXTINF:-1 tvg-id="INDIEPLEX *FHD" tvg-name="INDIEPLEX *FHD" tvg-logo="https://tvpremiumhd.com/channels/live/upload/9136.png" group-title="CINEMA | FHD",INDIEPLEX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/843.m3u8
+#EXTINF:-1 tvg-id="I-SAT *FHD" tvg-name="ISAT *FHD" tvg-logo="https://endorfinacultural.com/wp-content/uploads/2015/06/ISAT-LOGO.png" group-title="CINEMA | FHD",ISAT *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/777.m3u8
+#EXTINF:-1 tvg-id="MOREMAX *FHD" tvg-name="MOREMAX *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2V7ZnIl9RDBoTwAs0mKXV2jbzLR8M1wY1Fq8p0y6rCAOG2fB&s" group-title="CINEMA | FHD",MOREMAX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/842.m3u8
+#EXTINF:-1 tvg-id="MOVIEPLEX *FHD" tvg-name="MOVIEPLEX *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-FCognUhTfwxSXvqfXzrBqc-GN730JqEMITy-uy-zRfW-3Jd&s" group-title="CINEMA | FHD",MOVIEPLEX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/840.m3u8
+#EXTINF:-1 tvg-id="MX | Multimedios Plus HD" tvg-name="MULTIMEDIOS *FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Multimedios_Televisi%C3%B3n_2015.png/revision/latest?cb=20150818212223" group-title="CINEMA | FHD",MULTIMEDIOS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/775.m3u8
+#EXTINF:-1 tvg-id="MULTIMEDIOS PLUS *FHD" tvg-name="MULTIMEDIOS PLUS *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAZu5YG0OrHUk3Q9CMgnYRGKiLbB6Ue0NmGF-73ambM9PIfel&s" group-title="CINEMA | FHD",MULTIMEDIOS PLUS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/776.m3u8
+#EXTINF:-1 tvg-id="OUTERMAX *FHD" tvg-name="OUTERMAX *FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/outer_max_us.jpg" group-title="CINEMA | FHD",OUTERMAX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/839.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL *FHD" tvg-name="PARAMOUNT CHANNEL *FHD" tvg-logo="https://pbs.twimg.com/profile_images/1181234124859854848/YXCiIyI3_400x400.jpg" group-title="CINEMA | FHD",PARAMOUNT CHANNEL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/774.m3u8
+#EXTINF:-1 tvg-id="RETROPLEX *FHD" tvg-name="RETROPLEX *FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/retroplex.jpg" group-title="CINEMA | FHD",RETROPLEX *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/838.m3u8
+#EXTINF:-1 tvg-id="SHOWTIME BEYOND *FHD" tvg-name="SHOWTIME BEYOND *FHD" tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINEMA | FHD",SHOWTIME BEYOND *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/837.m3u8
+#EXTINF:-1 tvg-id="USA | Showtime WEST" tvg-name="SHOWTIME EAST *FHD" tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINEMA | FHD",SHOWTIME EAST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/836.m3u8
+#EXTINF:-1 tvg-id="SHOWTIME WEST *FHD" tvg-name="SHOWTIME WEST *FHD" tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINEMA | FHD",SHOWTIME WEST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/834.m3u8
+#EXTINF:-1 tvg-id="SONY *FHD" tvg-name="SONY *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2VS2dkxRaVQoAoGuPs6loaP3ZS1J_AbdaROVv6bRLgLJWnav&s" group-title="CINEMA | FHD",SONY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/773.m3u8
+#EXTINF:-1 tvg-id="SPACE *FHD" tvg-name="SPACE *FHD" tvg-logo="https://4.bp.blogspot.com/-3Vy7AYHpJ8M/V2Ma-jQ0IFI/AAAAAAAAAFU/2XKm9PBJk4MfYrwmSRrYQSMmi7b01eHoACKgB/s200/3Cp8HpUQ.jpg" group-title="CINEMA | FHD",SPACE *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/767.m3u8
+#EXTINF:-1 tvg-id="STARZ *FHD" tvg-name="STARZ *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/820.m3u8
+#EXTINF:-1 tvg-id="STARZ BLACK *FHD" tvg-name="STARZ BLACK *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ BLACK *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/833.m3u8
+#EXTINF:-1 tvg-id="STARZ CINEMA *FHD" tvg-name="STARZ CINEMA *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ CINEMA *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/832.m3u8
+#EXTINF:-1 tvg-id="STARZ COMEDY *FHD" tvg-name="STARZ COMEDY *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ COMEDY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/831.m3u8
+#EXTINF:-1 tvg-id="STARZ EAST *FHD" tvg-name="STARZ EAST *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ EAST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/830.m3u8
+#EXTINF:-1 tvg-id="STARZ EDGE *FHD" tvg-name="STARZ EDGE *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ EDGE *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/829.m3u8
+#EXTINF:-1 tvg-id="STARZ ENCORE ACTION *FHD" tvg-name="STARZ ENCORE ACTION *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ ENCORE ACTION *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/828.m3u8
+#EXTINF:-1 tvg-id="STARZ ENCORE CLASSIC *FHD" tvg-name="STARZ ENCORE CLASSICS *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ ENCORE CLASSICS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/826.m3u8
+#EXTINF:-1 tvg-id="USA | Starz Encore Suspense" tvg-name="STARZ ENCORE ENCORE SUSPENSO *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ ENCORE ENCORE SUSPENSO *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/823.m3u8
+#EXTINF:-1 tvg-id="STARZ ENCORE FAMILY *FHD" tvg-name="STARZ ENCORE FAMILY *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ ENCORE FAMILY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/825.m3u8
+#EXTINF:-1 tvg-id="STARZ ENCORE WESTERN *FHD" tvg-name="STARZ ENCORE WESTER *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ ENCORE WESTER *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/822.m3u8
+#EXTINF:-1 tvg-id="STARZ FAMILY *FHD" tvg-name="STARZ FAMILY *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ FAMILY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/821.m3u8
+#EXTINF:-1 tvg-id="USA | Starz Kids & Family" tvg-name="STARZ KIDS & FAMILY *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ KIDS & FAMILY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/819.m3u8
+#EXTINF:-1 tvg-id="STARZ WEST *FHD" tvg-name="STARZ WEST *FHD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/11/starz-logo.jpg" group-title="CINEMA | FHD",STARZ WEST *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/818.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL *FHD" tvg-name="STUDIO UNIVERSAL *FHD" tvg-logo="https://pbs.twimg.com/profile_images/841989870469824512/ZTPdSnH7_400x400.jpg" group-title="CINEMA | FHD",STUDIO UNIVERSAL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/768.m3u8
+#EXTINF:-1 tvg-id="SYFY *FHD" tvg-name="SYFY *FHD" tvg-logo="http://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="CINEMA | FHD",SYFY *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/769.m3u8
+#EXTINF:-1 tvg-id="TBS *FHD" tvg-name="TBS *FHD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/tbs_nuevo_logo_2.jpg" group-title="CINEMA | FHD",TBS *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/770.m3u8
+#EXTINF:-1 tvg-id="TCM *FHD" tvg-name="TCM *FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="CINEMA | FHD",TCM *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/771.m3u8
+#EXTINF:-1 tvg-id="TNT *FHD" tvg-name="TNT *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAiUFnPAQr3Lu4pODnF2avcvXy3EoFGyVCk4HL_jEhLk6yzPp&s" group-title="CINEMA | FHD",TNT *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/765.m3u8
+#EXTINF:-1 tvg-id="TNT SERIES *FHD" tvg-name="TNT SERIES *FHD" tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" group-title="CINEMA | FHD",TNT SERIES *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/766.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL *FHD" tvg-name="UNIVERSAL CHANNEL *FHD" tvg-logo="http://www.cablevideodigitalbionik.com.ar/img/logoscanales/universal.jpg" group-title="CINEMA | FHD",UNIVERSAL CHANNEL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/816.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="CINEMA | FHD",WARNER CHANNEL *FHD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/764.m3u8
